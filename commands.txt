@@ -1,0 +1,9 @@
+cd .. - this command helps you to go back
+cd / - this one takes you back to my computer
+touch file.txt - this command helps to creat a file inside the folder
+mkdir - its when you creat a new folder
+cd folders name - when you open the folder
+ls - is to check whats inside the folder
+pwd - it tells me where am I on my computer which folder I'm into
+rmdir - remove the folder
+ls -alt - gives me the files that are in the folder
